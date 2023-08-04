@@ -1,0 +1,15 @@
+{
+  "name": "calculator-by-abu-hurairah",
+  "version": "3.0.0",
+  "description": "",
+  "bin": "output/index.js",
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/inquirer": "^9.0.3",
+    "chalk": "^5.1.2",
+    "inquirer": "^9.1.4"
+  }
+}

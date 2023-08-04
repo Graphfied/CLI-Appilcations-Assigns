@@ -1,0 +1,20 @@
+{
+  "name": "word-counter-by-abu-hurairah",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "tsc && node output/index.js"
+  },
+  "author": "",
+  "bin": "output/index.js",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.1.2",
+    "inquirer": "^9.1.4"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.3"
+  }
+}
